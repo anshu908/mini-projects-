@@ -1,4 +1,4 @@
-##Mini Projects Collection
+##cMini Projects Collection
 Welcome to the Mini Projects repository! This repository contains a collection of various mini-projects that demonstrate concepts across different programming languages and technologies. These projects are designed to be quick, fun, and educational.
 
 Projects
